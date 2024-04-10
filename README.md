@@ -1,0 +1,1 @@
+Its just a SUPER basic website that gives you random memes from reddit every once in a while, it uses the api created by D3VD which can be found here: https://github.com/D3vd/Meme_Api?tab=readme-ov-file
